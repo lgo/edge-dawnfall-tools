@@ -813,10 +813,10 @@ export const cards = [
     img: "images/factions/dvergar/cards/chain_grab.png",
     cardCount: 4,
     upperAction: "SCAVENGERS",
-    upperCost: "4",
+    upperCost: "1",
     upperActionText:
       "Use right after any Dvergar deals any Wound. Charge any 1 Dvergar Enhancement by 3 (charge) .",
-    lowerCost: "1",
+    lowerCost: "0",
     costType: "crystal",
     lowerAction: "CHAIN GRAB",
     lowerActionText:
