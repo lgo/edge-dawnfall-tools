@@ -762,7 +762,7 @@ export const cards = [
     upperAction: "PROSPECTING",
     upperCost: "1",
     upperActionText:
-      "Destroy 1 Dvergar (base_to_base) , then add 1 (base_to_base) to the Dvergar Depleted Pool for each Controlled Crystal Source.",
+      "Destroy 1 Dvergar (crystal) , then add 1 (crystal) to the Dvergar Depleted Pool for each Controlled Crystal Source.",
     lowerCost: "0",
     costType: "crystal",
     lowerAction: "DETONATION",
