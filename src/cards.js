@@ -796,7 +796,7 @@ export const cards = [
     img: "images/factions/dvergar/cards/fury.png",
     cardCount: 4,
     upperAction: "REFRESH CRYSTALS",
-    upperCost: "4",
+    upperCost: "1",
     upperActionText: "Discard 1 card to refresh the Dvergar Crystal Pool.",
     lowerCost: "2",
     costType: "crystal",
