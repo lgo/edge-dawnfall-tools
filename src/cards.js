@@ -785,7 +785,7 @@ export const cards = [
     costType: "crystal",
     lowerAction: "MECHANISM",
     lowerActionText:
-      "Move any number of Enhancements (charge), , and Endurance tokens between the Dvergar Squads (even the dead ones).  ",
+      "Move any number of Enhancements, (charge), and Endurance tokens between the Dvergar Squads (even the dead ones).",
     squad: "ANY_SQUAD",
     count: 0,
     faction: "dvergar",
